@@ -1,0 +1,7 @@
+{
+  "name": "BillMinder Rebuilt",
+  "description": "Professional bill tracking and reminder application. Stay on top of your finances with timely notifications and offline-first management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
